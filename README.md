@@ -2,7 +2,7 @@
 
 The repository implements the full-FORCE learning of  Recurrently connected Spiking Neural Networks. 
 The learning described in the paper is applied to Accordian function. The func.py file has the equation of the function. The train and test files are for training the networks and testing the networks respectively. The number of neurons, number of trials can be altered through the parameters in the respective train and test files to experiment with. 
-The rate based and time-to-first-spike based implementations are available in separate folders. For any questions send an email to - ankita.paul@drexel.edu
+The rate based and time-to-first-spike based implementations are available in separate folders. 
 
 
 The proposed training procedure consists of generating targets for both the recurrently-connected hidden layer and the output layer (i.e., for a full RSNN system), and using the recursive least square-based First-Order and Reduced Control Error (FORCE) algorithm to fit the activity of each layer to its target. We demonstrate the improved performance and noise robustness of the proposed full-FORCE training procedure to model 10 dynamic systems using RSNNs with leaky integrate and
@@ -33,3 +33,7 @@ year={2022},
 publisher={IEEE}
 }
 
+
+### **Getting in touch** 
+
+For any questions send an email to - ankita.paul@drexel.edu
