@@ -25,15 +25,15 @@ If you find this code useful in your research, please cite our paper:
 
 Ankita Paul, Stefan Wagner and Anup Das. "Learning in Feedback-driven Recurrent Spiking Neural Networks using full-FORCE Training." 2022 International Joint Conference on Neural Networks (IJCNN 2022).
 
-@inproceedings{full_force_snn,
-title={Learning in Feedback-driven Recurrent Spiking Neural Networks using full-FORCE Training},
-author={Paul, Ankita and Wagner, Stefan and Das, Anup},
-booktitle ={International Joint Conference on Neural Networks (IJCNN)},
-year={2022},
-publisher={IEEE}
+@inproceedings{full_force_snn,  
+title={Learning in Feedback-driven Recurrent Spiking Neural Networks using full-FORCE Training},  
+author={Paul, Ankita and Wagner, Stefan and Das, Anup},  
+booktitle ={International Joint Conference on Neural Networks (IJCNN)},  
+year={2022},  
+publisher={IEEE}  
 }
 
 
-### **Getting in touch** 
+### **Contact Information** 
 
 For any questions send an email to - ankita.paul@drexel.edu
