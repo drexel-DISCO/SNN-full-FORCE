@@ -16,3 +16,9 @@ The rate based approach achieves lower error rates but higher spike rate :
 The TTFS based approach achieves higher error rate compared to rate based but lower spike rate :
 
 ![accordian snn ttfs](https://user-images.githubusercontent.com/53861279/167361343-f4a7f7a0-f9fb-44ce-aec2-f999b2321501.png)
+
+
+Citation Information 
+
+If you use our work, please cite our paper in the following format :
+
