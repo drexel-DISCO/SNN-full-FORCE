@@ -21,6 +21,8 @@ The TTFS based approach achieves higher error rate compared to rate based but lo
 ## **Citation Information** 
 
 If you find this code useful in your research, please cite our paper:
+
+
 Ankita Paul, Stefan Wagner and Anup Das. "Learning in Feedback-driven Recurrent Spiking Neural Networks using full-FORCE Training." 2022 International Joint Conference on Neural Networks (IJCNN 2022).
 
 @inproceedings{full_force_snn,
